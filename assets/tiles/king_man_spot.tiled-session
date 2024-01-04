@@ -1,0 +1,53 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "bridge.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "bg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bridge.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ground-elevation.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ground-flat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ground-shadows.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/codeKHANH/flutter/game_1/king_man_spot/assets/images/Terrain/Ground",
+    "openFiles": [
+        "bridge.tsx",
+        "ground-shadows.tsx",
+        "ground-elevation.tsx",
+        "ground-flat.tsx"
+    ],
+    "project": "king_man_spot.tiled-project",
+    "recentFiles": [
+        "ground-flat.tsx",
+        "ground-elevation.tsx",
+        "ground-shadows.tsx",
+        "bridge.tsx",
+        "ground.tsx",
+        "bg.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
